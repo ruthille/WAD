@@ -1,6 +1,6 @@
 
 body {
-	background-image: url("calc.jpg");
+	background-color:#696969;
 	line-height: 1;
 	margin-top: 15%;
 	margin-left: 30%;
@@ -39,6 +39,9 @@ form {
 	display: inline-block;
 	padding: 5px;
 }
+digit:hover{
+	background-color: #778899;
+}
 
 .oper {
 	font-size: 2rem;
@@ -49,6 +52,9 @@ form {
 	display: inline-block;
 	padding: 6px;
 
+}
+oper:hover{
+	background-color: #778899;
 }
 #clearMem {
 	background-color: gray;
