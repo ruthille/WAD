@@ -1,6 +1,6 @@
 
 body {
-	background-color:#696969;
+	background-color:;
 	line-height: 1;
 	margin-top: 15%;
 	margin-left: 30%;
@@ -16,8 +16,10 @@ body {
 	color: black;
 }
 form {
-	background-color:#696969;
-	text-align: center;	
+	background-color:black;
+	text-align: center;
+	border:2px;
+	border-color:;
 	
 }
 
@@ -26,26 +28,21 @@ form {
 	height: 40px;
 	text-align: right;
 	font-size: 2rem;
-	padding-top: 3%;
-	padding-bottom: 3%;
 	margin-bottom: 5px;
 }
 .digit {
 	font-size: 2rem;
-	background-color: gray;
+	background-color: #C0C0C0;
 	height: 55px;
 	width: 20%;
 	border-radius: 2px;
 	display: inline-block;
 	padding: 5px;
 }
-digit:hover{
-	background-color: #778899;
-}
 
 .oper {
 	font-size: 2rem;
-	background-color: gray;
+	background-color:#C0C0C0 ;
 	height: 55px;
 	width: 20%;
 	border-radius: 2px;
@@ -53,11 +50,9 @@ digit:hover{
 	padding: 6px;
 
 }
-oper:hover{
-	background-color: #778899;
-}
+
 #clearMem {
-	background-color: gray;
+	background-color: #C0C0C0;
 }
 #equal {
 	background-color: gray;
