@@ -1,6 +1,6 @@
 
 body {
-	background-color:;
+	background-color:black;
 	line-height: 1;
 	margin-top: 15%;
 	margin-left: 30%;
@@ -55,5 +55,5 @@ form {
 	background-color: #C0C0C0;
 }
 #equal {
-	background-color: gray;
+	background-color:#C0C0C0 ;
 }
