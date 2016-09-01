@@ -3,7 +3,7 @@ body {
 	background-color: black;
 	line-height: 1;
 	margin-top: 15%;
-	margin-left: 25%;
+	margin-left: 27%;
 }
 ul {
 	list-style: none;
@@ -35,7 +35,7 @@ form {
 	background-color: gray;
 	height: 55px;
 	width: 20%;
-	border-radius: 3px;
+	border-radius: 2px;
 	display: inline-block;
 	padding: 6px;
 }
