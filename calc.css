@@ -39,14 +39,21 @@ form {
 	display: inline-block;
 	padding: 5px;
 }
+digit:hover{
+	background-color:white;
+}
 .oper {
 	font-size: 2rem;
 	background-color: gray;
 	height: 55px;
 	width: 20%;
-	border-radius: 5px;
+	border-radius: 2px;
 	display: inline-block;
 	padding: 6px;
+}
+oper:hover {
+	background-color:white;
+	
 }
 #clearMem {
 	background-color: gray;
